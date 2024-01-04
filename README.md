@@ -2,6 +2,9 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
+"username": "DJ@4",
+ "password": "Dhunjam@2023"
+ 
 Currently, two official plugins are available:
 Live link
 
